@@ -13,17 +13,17 @@ class HomeProvider extends ChangeNotifier {
     notifyListeners();
   }
 
-  void multy2() {
+  void Multy2() {
     i = i * 2;
     notifyListeners();
   }
 
-  void multy3() {
+  void Multy3() {
     i = i * 3;
     notifyListeners();
   }
 
-  void multy6() {
+  void Multy6() {
     i = i * 6;
     notifyListeners();
   }

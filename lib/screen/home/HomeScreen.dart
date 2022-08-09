@@ -42,7 +42,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   ),
                   ElevatedButton(
                     onPressed: () {
-                      providerfalse.multy2();
+                      providerfalse.Multy2();
                     },
                     child: Text("2X"),
                     style: ElevatedButton.styleFrom(
@@ -50,7 +50,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   ),
                   ElevatedButton(
                     onPressed: () {
-                      providerfalse.multy3();
+                      providerfalse.Multy3();
                     },
                     child: Text("3X"),
                     style: ElevatedButton.styleFrom(
@@ -58,7 +58,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   ),
                   ElevatedButton(
                     onPressed: () {
-                      providerfalse.multy6();
+                      providerfalse.Multy6();
                     },
                     child: Text("6X"),
                     style: ElevatedButton.styleFrom(
